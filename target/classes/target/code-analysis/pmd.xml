@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.8.1" timestamp="2019-06-16T20:02:43.723">
+<file name="C:\Users\fries\Documents\smarthome\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.dominoswiss\src\main\java\org\openhab\binding\dominoswiss\handler\EgateHandler.java">
+<violation beginline="87" endline="87" begincolumn="18" endcolumn="37" rule="AvoidCatchingNPE" ruleset="Strict Exceptions" package="org.openhab.binding.dominoswiss.handler" class="EgateHandler" method="initialize" externalInfoUrl="https://pmd.github.io/pmd-5.8.1/pmd-java/rules/java/strictexception.html#AvoidCatchingNPE" priority="2">
+Avoid catching NullPointerException; consider removing the cause of the NPE.
+</violation>
+</file>
+</pmd>
