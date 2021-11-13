@@ -19,20 +19,20 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>Dominoswiss Binding - Checkstyle report</title>
-    <link>${project.url}</link>
-    <description>Dominoswiss Binding - Checkstyle report</description>
+    <title>openHAB Add-ons :: Bundles :: Dominoswiss Binding - Checkstyle report</title>
+    <link>https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss</link>
+    <description>openHAB Add-ons :: Bundles :: Dominoswiss Binding - Checkstyle report</description>
     <language>en-us</language>
-    <copyright>&#169;2019 openHAB.org</copyright>
+    <copyright>&#169;2021 openHAB.org</copyright>
     <item>
-      <title>File: 17,
+      <title>File: 13,
              Errors: 0,
-             Warnings: 3,
-             Infos: 23
+             Warnings: 0,
+             Infos: 1
       </title>
-            <link>${project.url}/checkstyle.html</link>
+            <link>https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html</link>
       <description>
-        <p>Click <a href="${project.url}/checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -46,21 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#about.html">about.html</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#.classpath">.classpath</a>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.EGateHandler.java">src/main/java/org/openhab/binding/dominoswiss/internal/EGateHandler.java</a>
                 </td>
                 <td>
                   1
@@ -74,63 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.DominoswissConfig.java">src/main/java/org/openhab/binding/dominoswiss/internal/DominoswissConfig.java</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.DominoswissBindingConstants.java">src/main/java/org/openhab/binding/dominoswiss/DominoswissBindingConstants.java</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#ESH-INF.binding.binding.xml">ESH-INF/binding/binding.xml</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#OSGI-INF.org.openhab.binding.dominoswiss.internal.DominoswissHandlerFactory.xml">OSGI-INF/org.openhab.binding.dominoswiss.internal.DominoswissHandlerFactory.xml</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#pom.xml">pom.xml</a>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.resources.OH-INF.binding.binding.xml">src/main/resources/OH-INF/binding/binding.xml</a>
                 </td>
                 <td>
                   0
@@ -144,35 +74,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#README.md">README.md</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.handler.EgateHandler.java">src/main/java/org/openhab/binding/dominoswiss/handler/EgateHandler.java</a>
-                </td>
-                <td>
-                  10
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#build.properties">build.properties</a>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.feature.feature.xml">src/main/feature/feature.xml</a>
                 </td>
                 <td>
                   0
@@ -186,77 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.handler.BlindHandler.java">src/main/java/org/openhab/binding/dominoswiss/handler/BlindHandler.java</a>
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.BlindConfig.java">src/main/java/org/openhab/binding/dominoswiss/internal/BlindConfig.java</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#ESH-INF.i18n.dominoswiss_xx_XX.properties">ESH-INF/i18n/dominoswiss_xx_XX.properties</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#OSGI-INF..gitignore">OSGI-INF/.gitignore</a>
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#ESH-INF.thing.thing-types.xml">ESH-INF/thing/thing-types.xml</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="${project.url}/checkstyle.html#META-INF.MANIFEST.MF">META-INF/MANIFEST.MF</a>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#.classpath">.classpath</a>
                 </td>
                 <td>
                   0
@@ -270,10 +102,122 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="${project.url}/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.DominoswissHandlerFactory.java">src/main/java/org/openhab/binding/dominoswiss/internal/DominoswissHandlerFactory.java</a>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.resources.OH-INF.i18n.dominoswiss_de_DE.properties">src/main/resources/OH-INF/i18n/dominoswiss_de_DE.properties</a>
                 </td>
                 <td>
-                  1
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.DominoswissBindingConstants.java">src/main/java/org/openhab/binding/dominoswiss/internal/DominoswissBindingConstants.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#pom.xml">pom.xml</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#README.md">README.md</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.resources.OH-INF.thing.thing-types.xml">src/main/resources/OH-INF/thing/thing-types.xml</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.DominoswissConfiguration.java">src/main/java/org/openhab/binding/dominoswiss/internal/DominoswissConfiguration.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.BlindConfig.java">src/main/java/org/openhab/binding/dominoswiss/internal/BlindConfig.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.BlindHandler.java">src/main/java/org/openhab/binding/dominoswiss/internal/BlindHandler.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/openhab/infrastructure/org.openhab.addons.reactor/org.openhab.addons.reactor.bundles/org.openhab.binding.dominoswiss/checkstyle.html#src.main.java.org.openhab.binding.dominoswiss.internal.DominoswissHandlerFactory.java">src/main/java/org/openhab/binding/dominoswiss/internal/DominoswissHandlerFactory.java</a>
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0

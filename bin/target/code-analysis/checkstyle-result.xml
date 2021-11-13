@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.30">
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\.classpath">
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\pom.xml">
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\README.md">
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\java\org\openhab\binding\dominoswiss\internal\blindConfig.java">
+<error line="23" column="14" severity="info" message="Der Bezeichner &apos;blindConfig&apos; entspricht nicht dem Muster &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\java\org\openhab\binding\dominoswiss\internal\blindHandler.java">
+<error line="37" column="14" severity="info" message="Der Bezeichner &apos;blindHandler&apos; entspricht nicht dem Muster &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\java\org\openhab\binding\dominoswiss\internal\dominoswissBindingConstants.java">
+<error line="25" column="14" severity="info" message="Der Bezeichner &apos;dominoswissBindingConstants&apos; entspricht nicht dem Muster &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\java\org\openhab\binding\dominoswiss\internal\dominoswissConfiguration.java">
+<error line="23" column="14" severity="info" message="Der Bezeichner &apos;dominoswissConfiguration&apos; entspricht nicht dem Muster &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\java\org\openhab\binding\dominoswiss\internal\dominoswissHandlerFactory.java">
+<error line="37" column="14" severity="info" message="Der Bezeichner &apos;dominoswissHandlerFactory&apos; entspricht nicht dem Muster &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\java\org\openhab\binding\dominoswiss\internal\eGateHandler.java">
+<error line="56" column="14" severity="info" message="Der Bezeichner &apos;eGateHandler&apos; entspricht nicht dem Muster &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="263" severity="info" message="Remove empty line" source="org.openhab.tools.analysis.checkstyle.NoEmptyLineSeparatorCheck"/>
+<error line="338" severity="info" message="Remove empty line" source="org.openhab.tools.analysis.checkstyle.NoEmptyLineSeparatorCheck"/>
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\resources\OH-INF\binding\binding.xml">
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\resources\OH-INF\i18n\dominoswiss_de_DE.properties">
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\resources\OH-INF\i18n\dominoswiss_xx_XX.properties">
+</file>
+<file name="C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\resources\OH-INF\thing\thing-types.xml">
+</file>
+</checkstyle>

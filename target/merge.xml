@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><sca xmlns:pmdns="http://pmd.sourceforge.net/report/2.0.0" xmlns:functx="http://www.functx.com">
+<file name="org.openhab.binding.dominoswiss.internal.EGateHandler.java">
+      <message tool="checkstyle" line="250" message="Remove empty line" priority="3" rule="NoEmptyLineSeparatorCheck" category="style"/>
+   </file>
+
+
+
+</sca>

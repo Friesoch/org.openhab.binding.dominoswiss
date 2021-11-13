@@ -1,0 +1,6 @@
+org\openhab\binding\dominoswiss\internal\DominoswissConfiguration.class
+org\openhab\binding\dominoswiss\internal\DominoswissHandlerFactory.class
+org\openhab\binding\dominoswiss\internal\DominoswissBindingConstants.class
+org\openhab\binding\dominoswiss\internal\BlindHandler.class
+org\openhab\binding\dominoswiss\internal\BlindConfig.class
+org\openhab\binding\dominoswiss\internal\EGateHandler.class
