@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<BugCollection version='4.0.1' threshold='high' effort='min'><Error></Error><Project><SrcDir>C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\main\java</SrcDir><SrcDir>C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\target\generated-sources\annotations</SrcDir><SrcDir>C:\Users\fries\Documents\smarthome\openhab3\git\openhab-addons\bundles\org.openhab.binding.dominoswiss\src\test\java</SrcDir></Project></BugCollection>
